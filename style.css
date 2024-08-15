@@ -168,6 +168,10 @@ div.video > iframe {
     height: 90%;
 }
 
+.aprenda > p {
+    padding: 5px;
+}
+
 .aprenda {
     background-color: #DDF2A1;
     border-radius: 15px;
